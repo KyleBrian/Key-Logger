@@ -58,5 +58,3 @@ Always be cautious when handling scripts or software. This project is meant for 
 ## Acknowledgements
 - Author: [KyleBrian]
 - Follow for updates on this and other projects!
-```
-
