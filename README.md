@@ -15,3 +15,15 @@ This project demonstrates a simple keylogger implementation for educational purp
 You can install the required library using:
 ```bash
 pip install keyboard
+
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/keylogger_project.git
+cd keylogger_project
+Run the keylogger:
+
+bash
+Copy code
+python keylogger.py
