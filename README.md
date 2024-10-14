@@ -22,7 +22,7 @@ pip install keyboard
 ## Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/keylogger_project.git
+   git clone https://github.com/KyleBrian/Key-Logger.git
    cd keylogger_project
    ```
 
