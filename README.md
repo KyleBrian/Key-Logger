@@ -18,12 +18,11 @@ pip install keyboard
 
 Clone this repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/keylogger_project.git
 cd keylogger_project
+
 Run the keylogger:
 
-bash
-Copy code
+```bash
 python keylogger.py
